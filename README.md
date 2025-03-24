@@ -29,7 +29,7 @@ change the port number in the package.json file to:  "start":"cross-env PORT=808
 Run the server by using this command: "npm start"
 The server will be running at https://web-and the docode-uid.docode.YOURZONE.qwasar.io
 ```
-./my_project argument1 argument2
+eg. This is mine: https://web-vdf40df2f-d41f.docode.fi.qwasar.io/
 ```
 
 ### The Core Team
